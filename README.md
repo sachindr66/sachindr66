@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at (https://sachindr-port-folio.netlify.app/)
 
-- 💬 Ask me about **Frontend Development, React.js, HTML, CSS, JavaScript**
+- 💬 Ask me about **Frontend Development, React.js, HTML, CSS, JavaScript,Node.js,Express,Tailwind css,Bottstrap**
 
 - 📫 How to reach me: **sachindr6622@gmail.com**
 
