@@ -3,10 +3,10 @@
 
 - 🌱 I’m currently learning **advanced front-end technologies like Next.js**
 
-- 👨‍💻 All of my projects are available at (https://sachindr-port-folio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sachindr-port-folio.netlify.app/)
 
-- 💬 Ask me about **Frontend Development, React.js, HTML, CSS, JavaScript,Node.js,Express,Tailwind css,Bottstrap**
+- 💬 Ask me about **Frontend Development, React.js, HTML, CSS, JavaScript, Node.js, Express, Tailwind CSS, Bootstrap**
 
-- 📫 How to reach me: **sachindr6622@gmail.com**
+- 📫 How to reach me: [My Portfolio](https://sachindr-port-folio.netlify.app/)
 
-- 📄 Know about my experiences on (https://www.linkedin.com/in/sachin-d-r-4685172a5)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/sachin-d-r-4685172a5)
